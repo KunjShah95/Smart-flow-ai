@@ -402,3 +402,11 @@ MIT License - see LICENSE file for details.
 - **Live Demo**: [smartflow-ai.web.app](https://smartflow-ai.web.app)
 - **Documentation**: [docs.smartflow.ai](https://docs.smartflow.ai)
 - **Support**: support@smartflow.ai
+
+---
+
+## Case study
+
+The full write-up of SmartFlow AI (problem, architecture, trade-offs and results) lives at **[kunjshah.in/projects/smartflow-ai](https://kunjshah.in/projects/smartflow-ai)**.
+
+Built by [Kunj Shah](https://kunjshah.in), AI engineer.
